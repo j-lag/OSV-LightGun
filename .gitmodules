@@ -1,0 +1,3 @@
+[submodule "vJoy"]
+	path = vJoy
+	url = https://github.com/jshafer817/vJoy.git

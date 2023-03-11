@@ -1,0 +1,17 @@
+%YAML:1.0
+---
+thresh: 49
+expo: 10
+blurS: 3
+width: 1280
+height: 720
+appro: 40
+K0: 51
+K1: 121
+K2: 96
+K3: 100
+Z: 78
+comPort: COM6
+opticalCenterX: 462
+opticalCenterY: 457
+marqueeZoom: 89
